@@ -4,6 +4,7 @@ NIM : 2304411617
 
 KELAS : 5 RPL 1
 
+
 Tema aplikasi yang dibuat adalah Aplikasi Media Sosial, dengan nama aplikasi Lemo Lite.
 Logo Aplikasi Lemolite
 
@@ -36,7 +37,7 @@ Screenshot Aplikasi:
 
 1. Menu Login
    
-   <img width="716" height="1600" alt="image" src="https://github.com/user-attachments/assets/6fcfd150-acf6-47c2-a9fd-3db6a25e8587" />
+   <img width="300" height="670" alt="image" src="https://github.com/user-attachments/assets/6fcfd150-acf6-47c2-a9fd-3db6a25e8587" />
 
 3. Menu Register
    
