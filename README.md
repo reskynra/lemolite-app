@@ -41,55 +41,55 @@ Screenshot Aplikasi:
 
 3. Menu Register
    
-   <img width="716" height="1600" alt="image" src="https://github.com/user-attachments/assets/7efca993-369a-4271-bb47-2bea77b2e5c1" />
+   <img width="300" height="670" alt="image" src="https://github.com/user-attachments/assets/7efca993-369a-4271-bb47-2bea77b2e5c1" />
 
 5. Menu Homepage
    
-   <img width="716" height="1600" alt="image" src="https://github.com/user-attachments/assets/aec48ef7-b713-4efe-88f5-e671eea26f09" />
+   <img width="300" height="670" alt="image" src="https://github.com/user-attachments/assets/aec48ef7-b713-4efe-88f5-e671eea26f09" />
 
 7. Menu Detail Postingan
    
-   <img width="716" height="1600" alt="image" src="https://github.com/user-attachments/assets/f8de0df3-45d9-435a-8d5f-5abc5c428de5" />
+   <img width="300" height="670" alt="image" src="https://github.com/user-attachments/assets/f8de0df3-45d9-435a-8d5f-5abc5c428de5" />
 
 9. Menu Opsi Edit/Hapus
     
-   <img width="716" height="1600" alt="image" src="https://github.com/user-attachments/assets/8a491bde-a43a-429e-ba36-23dcb75a53d4" />
+   <img width="300" height="670" alt="image" src="https://github.com/user-attachments/assets/8a491bde-a43a-429e-ba36-23dcb75a53d4" />
 
 11. Menu Edit Postingan
     
-    <img width="716" height="1600" alt="image" src="https://github.com/user-attachments/assets/39c00d52-2da5-4fa2-bf49-de66820dd26b" />
+    <img width="300" height="670" alt="image" src="https://github.com/user-attachments/assets/39c00d52-2da5-4fa2-bf49-de66820dd26b" />
 
 13. Menu Hapus Postingan
     
-    <img width="716" height="1600" alt="image" src="https://github.com/user-attachments/assets/84da5e00-1e74-4454-8654-49708492fbd0" />
+    <img width="300" height="670" alt="image" src="https://github.com/user-attachments/assets/84da5e00-1e74-4454-8654-49708492fbd0" />
 
 15. Menu Kolom Komentar
     
-    <img width="720" height="1608" alt="image" src="https://github.com/user-attachments/assets/1be0e345-33c3-425e-9632-95189e5a87f3" />
+    <img width="300" height="670" alt="image" src="https://github.com/user-attachments/assets/1be0e345-33c3-425e-9632-95189e5a87f3" />
 
 17. Menu Buat Postingan Baru
     
-    <img width="716" height="1600" alt="image" src="https://github.com/user-attachments/assets/f641ac13-ae64-4658-ae9f-1e77b07e4510" />
+    <img width="300" height="670" alt="image" src="https://github.com/user-attachments/assets/f641ac13-ae64-4658-ae9f-1e77b07e4510" />
 
 19. Menu Profil
     
-    <img width="716" height="1600" alt="image" src="https://github.com/user-attachments/assets/92cd8a8c-9854-4048-b09b-0b1ffda6419d" />
+    <img width="300" height="670" alt="image" src="https://github.com/user-attachments/assets/92cd8a8c-9854-4048-b09b-0b1ffda6419d" />
 
 21. Menu Edit Profil
     
-    <img width="716" height="1600" alt="image" src="https://github.com/user-attachments/assets/0b1e5d8e-aaf8-4f65-9242-a52da62594d0" />
+    <img width="300" height="670" alt="image" src="https://github.com/user-attachments/assets/0b1e5d8e-aaf8-4f65-9242-a52da62594d0" />
 
 23. Menu Logout
     
-    <img width="716" height="1600" alt="image" src="https://github.com/user-attachments/assets/274de7a1-144c-44d6-965d-0292333b72c1" />
+    <img width="300" height="670" alt="image" src="https://github.com/user-attachments/assets/274de7a1-144c-44d6-965d-0292333b72c1" />
 
 25. Notifikasi Postingan Baru
     
-    <img width="716" height="1600" alt="image" src="https://github.com/user-attachments/assets/4662b5be-cb75-4aad-88e8-b70ff1fe83ce" />
+    <img width="300" height="670" alt="image" src="https://github.com/user-attachments/assets/4662b5be-cb75-4aad-88e8-b70ff1fe83ce" />
 
 27. Notifikasi Ubah Profil
     
-    <img width="716" height="1600" alt="image" src="https://github.com/user-attachments/assets/565398e5-355f-40b0-8b01-3c89f7c7195a" />
+    <img width="300" height="670" alt="image" src="https://github.com/user-attachments/assets/565398e5-355f-40b0-8b01-3c89f7c7195a" />
 
 Cara menjalankan aplikasi:
 1.	Login ke aplikasi menggunakan email/password atau menggunakan akun google
