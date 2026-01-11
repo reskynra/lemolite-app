@@ -21,17 +21,29 @@ Aplikasi rujukan di playstore adalah Lemon8.
 Link aplikasi: (https://play.google.com/store/apps/details?id=com.bd.nproject)
 
 Fitur yang dibuat diantaranya:
+
 ✔ Fitur Login untuk masuk ke aplikasi
+
 ✔ Fitur Register untuk membuat akun baru
+
 ✔ Fitur Home untuk menampilkan gambar postingan berupa List
+
 ✔ Fitur Detail Postingan untuk menampilkan detail dari postingan
+
 ✔ Fitur Kolom komentar untuk menuliskan komentar ke postingan
+
 ✔ Fitur Create Post untuk membuat postingan baru
+
 ✔ Fitur Profil untuk menampilkan profil pengguna yang berisi informasi username, nama, info gender, bio, jumlah posts, dan foto profil
+
 ✔ Fitur Edit Profil untuk mengedit profil pengguna seperti mengganti foto profil, mengubah username dan nama, serta menambahkan bio
+
 ✔ Fitur Edit Postingan untuk mengubah judul postingan dan caption
+
 ✔ Fitur Logout untuk keluar dari aplikasi
+
 ✔ Notifikasi ketika membuat postingan baru, memperbarui postingan, menghapus postingan.
+
 
 Screenshot Aplikasi:
 
