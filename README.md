@@ -33,45 +33,59 @@ Fitur yang dibuat diantaranya:
 Screenshot Aplikasi:
 
 1. Menu Login
+   
    <img width="716" height="1600" alt="image" src="https://github.com/user-attachments/assets/6fcfd150-acf6-47c2-a9fd-3db6a25e8587" />
 
-2. Menu Register
+3. Menu Register
+   
    <img width="716" height="1600" alt="image" src="https://github.com/user-attachments/assets/7efca993-369a-4271-bb47-2bea77b2e5c1" />
 
-3. Menu Homepage
+5. Menu Homepage
+   
    <img width="716" height="1600" alt="image" src="https://github.com/user-attachments/assets/aec48ef7-b713-4efe-88f5-e671eea26f09" />
 
-4. Menu Detail Postingan
+7. Menu Detail Postingan
+   
    <img width="716" height="1600" alt="image" src="https://github.com/user-attachments/assets/f8de0df3-45d9-435a-8d5f-5abc5c428de5" />
 
-5. Menu Opsi Edit/Hapus
+9. Menu Opsi Edit/Hapus
+    
    <img width="716" height="1600" alt="image" src="https://github.com/user-attachments/assets/8a491bde-a43a-429e-ba36-23dcb75a53d4" />
 
-6. Menu Edit Postingan
+11. Menu Edit Postingan
+    
     <img width="716" height="1600" alt="image" src="https://github.com/user-attachments/assets/39c00d52-2da5-4fa2-bf49-de66820dd26b" />
 
-7. Menu Hapus Postingan
+13. Menu Hapus Postingan
+    
     <img width="716" height="1600" alt="image" src="https://github.com/user-attachments/assets/84da5e00-1e74-4454-8654-49708492fbd0" />
 
-8. Menu Kolom Komentar
+15. Menu Kolom Komentar
+    
     <img width="720" height="1608" alt="image" src="https://github.com/user-attachments/assets/1be0e345-33c3-425e-9632-95189e5a87f3" />
 
-9. Menu Buat Postingan Baru
+17. Menu Buat Postingan Baru
+    
     <img width="716" height="1600" alt="image" src="https://github.com/user-attachments/assets/f641ac13-ae64-4658-ae9f-1e77b07e4510" />
 
-10. Menu Profil
+19. Menu Profil
+    
     <img width="716" height="1600" alt="image" src="https://github.com/user-attachments/assets/92cd8a8c-9854-4048-b09b-0b1ffda6419d" />
 
-11. Menu Edit Profil
+21. Menu Edit Profil
+    
     <img width="716" height="1600" alt="image" src="https://github.com/user-attachments/assets/0b1e5d8e-aaf8-4f65-9242-a52da62594d0" />
 
-12. Menu Logout
+23. Menu Logout
+    
     <img width="716" height="1600" alt="image" src="https://github.com/user-attachments/assets/274de7a1-144c-44d6-965d-0292333b72c1" />
 
-13. Notifikasi Postingan Baru
+25. Notifikasi Postingan Baru
+    
     <img width="716" height="1600" alt="image" src="https://github.com/user-attachments/assets/4662b5be-cb75-4aad-88e8-b70ff1fe83ce" />
 
-14. Notifikasi Ubah Profil
+27. Notifikasi Ubah Profil
+    
     <img width="716" height="1600" alt="image" src="https://github.com/user-attachments/assets/565398e5-355f-40b0-8b01-3c89f7c7195a" />
 
 Cara menjalankan aplikasi:
