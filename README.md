@@ -1,5 +1,7 @@
 NAMA : RESKI NURALIAH
+
 NIM : 2304411617
+
 KELAS : 5 RPL 1
 
 Tema aplikasi yang dibuat adalah Aplikasi Media Sosial, dengan nama aplikasi Lemo Lite.
