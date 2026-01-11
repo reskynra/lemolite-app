@@ -3,7 +3,8 @@ NIM : 2304411617
 KELAS : 5 RPL 1
 
 Tema aplikasi yang dibuat adalah Aplikasi Media Sosial, dengan nama aplikasi Lemo Lite.
-logo Aplikasi Lemolite
+Logo Aplikasi Lemolite
+
 <img width="236" height="236" alt="image" src="https://github.com/user-attachments/assets/bc08668a-6c09-45a2-baa7-dcdc4f56fa62" />
 
 Aplikasi rujukan di playstore adalah Lemon8.
@@ -17,17 +18,17 @@ Aplikasi rujukan di playstore adalah Lemon8.
 Link aplikasi: (https://play.google.com/store/apps/details?id=com.bd.nproject)
 
 Fitur yang dibuat diantaranya:
-	Fitur Login untuk masuk ke aplikasi
-	Fitur Register untuk membuat akun baru
-	Fitur Home untuk menampilkan gambar postingan berupa List
-	Fitur Detail Postingan untuk menampilkan detail dari postingan
-	Fitur Kolom komentar untuk menuliskan komentar ke postingan
-	Fitur Create Post untuk membuat postingan baru
-	Fitur Profil untuk menampilkan profil pengguna yang berisi informasi username, nama, info gender, bio, jumlah posts, dan foto profil
-	Fitur Edit Profil untuk mengedit profil pengguna seperti mengganti foto profil, mengubah username dan nama, serta menambahkan bio
-	Fitur Edit Postingan untuk mengubah judul postingan dan caption
-	Fitur Logout untuk keluar dari aplikasi
-	Notifikasi ketika membuat postingan baru, memperbarui postingan, menghapus postingan.
+✔ Fitur Login untuk masuk ke aplikasi
+✔ Fitur Register untuk membuat akun baru
+✔ Fitur Home untuk menampilkan gambar postingan berupa List
+✔ Fitur Detail Postingan untuk menampilkan detail dari postingan
+✔ Fitur Kolom komentar untuk menuliskan komentar ke postingan
+✔ Fitur Create Post untuk membuat postingan baru
+✔ Fitur Profil untuk menampilkan profil pengguna yang berisi informasi username, nama, info gender, bio, jumlah posts, dan foto profil
+✔ Fitur Edit Profil untuk mengedit profil pengguna seperti mengganti foto profil, mengubah username dan nama, serta menambahkan bio
+✔ Fitur Edit Postingan untuk mengubah judul postingan dan caption
+✔ Fitur Logout untuk keluar dari aplikasi
+✔ Notifikasi ketika membuat postingan baru, memperbarui postingan, menghapus postingan.
 
 Screenshot Aplikasi:
 
